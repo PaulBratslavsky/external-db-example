@@ -1,4 +1,4 @@
-How To Add An External Database To Strapi Cloud
+# How To Add An External Database To Strapi Cloud
 
 Did you know Strapi Cloud supports external databases?
 
