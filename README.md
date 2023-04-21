@@ -213,3 +213,5 @@ In conclusion, Strapi Cloud does support external databases. However, it's only 
 In this post, we've walked through the process of adding an external database to a Strapi Cloud project, along with the necessary configurations and environment variables. 
 
 We also covered how to revert to the default database. While using an external database may be a viable option for some users, weighing the caveats and understanding the potential risks involved, such as performance impact, network latency, and security concerns, is essential.
+
+If you prefer a video walkthrough, you can find it [here](https://www.youtube.com/watch?v=g7hzv0uHHMo)
