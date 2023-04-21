@@ -22,6 +22,7 @@ But, in your case, you need to use an external database, so let's see how we can
 1.  Local Strapi project.
 2.  The same project deployed to Strapi Cloud.
 3.  Credential for an external database.
+4.  If using an existing database, the schema must match the Strapi project schema.
 
 You can watch the following [video](https://youtu.be/gsJZNV3trJE) on deploying a new Strapi Project to the cloud. But in this example, I already have a project running locally on my computer.
 
@@ -174,6 +175,8 @@ DATABASE_SSL=true
 DATABASE_SSL_REJECT_UNAUTHORIZED=false
 DATABASE_SHEMA=public
 ```
+
+**note**: To ensure a smooth deployment, it is recommended to not change the names of the environment variables.
 
 You can add your variables under settings -> variables
 
